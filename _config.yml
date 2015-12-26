@@ -1,0 +1,28 @@
+name: YJT
+favicon: null
+layout_spectrum: 0.46074806805700064
+typography_spectrum: 0.34069279255345464
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.42863395321182907
+  lightness: 0.2570159863680601
+  saturation: 0.3496552314609289
+  rhythmicContrast: 0.320243869908154
+purpose: []
